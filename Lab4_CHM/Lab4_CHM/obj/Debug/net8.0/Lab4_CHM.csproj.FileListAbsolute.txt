@@ -1,0 +1,14 @@
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\bin\Debug\net8.0\Lab4_CHM.exe
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\bin\Debug\net8.0\Lab4_CHM.deps.json
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\bin\Debug\net8.0\Lab4_CHM.runtimeconfig.json
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\bin\Debug\net8.0\Lab4_CHM.dll
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\bin\Debug\net8.0\Lab4_CHM.pdb
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.AssemblyInfoInputs.cache
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.AssemblyInfo.cs
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.csproj.CoreCompileInputs.cache
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.dll
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\refint\Lab4_CHM.dll
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.pdb
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\Lab4_CHM.genruntimeconfig.cache
+C:\Users\nices\source\repos\Lab4_CHM\Lab4_CHM\obj\Debug\net8.0\ref\Lab4_CHM.dll
